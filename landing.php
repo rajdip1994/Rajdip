@@ -1,5 +1,5 @@
 <?php
 echo "hello gihub";
 echo "<br>";
-echo "Today is wednesday";
+echo "Today is Wednesday";
 ?>
